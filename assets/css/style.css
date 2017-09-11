@@ -1,0 +1,47 @@
+#game-title {
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.navbar-default {
+    background-color: #FFA500;
+    border-color: #000000;
+}
+
+.instructions {
+    color: #7CFC00;
+    font-weight: bold;
+    margin: 1% 0% 1% 1%;
+}
+
+.panel-default {
+    background-color: #FFF0F5;
+    border-color: #000000;
+}
+
+.crystal {
+    position: relative;
+    height: 80%;
+}
+
+.total {
+    background-color: #87CEFA;
+    margin-left: 2%;
+    margin-top: 2%;
+    font-size: 25px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.score {
+    background-color: #3CB371;
+    margin: 2%;
+
+    font-size: 25px;
+}
+
+.random-text-area {
+    background-color: #00FA9A;
+    margin: 2%;
+    font-size: 25px;
+}
